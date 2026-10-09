@@ -7,8 +7,6 @@
 
 > Las características de la máquina son: 4GB de RAM, 2CPU y 250GB de almacenamiento. En esta tarea, usaré un Linux Mint (reutilizado de tareas anteriores).
 
-![Maquina Virtual](img/maquina.png)
-
 ## **_1. Desplegar Oracle Database 23 ai Free con Podman_**
 
 > **Versión de la imagen:** `container-registry.oracle.com/database/free:23.5.0.0`
