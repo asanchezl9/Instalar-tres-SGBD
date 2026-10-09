@@ -62,7 +62,7 @@ Una vez ya comprobado que se conecta, ya hemos terminado con Oracle + Podman.
 
 ## **_2. Desplegar PostgreSQL_**
 
-> **Versión instalada: `psql (PostgreSQL) 16.15`
+> **Versión instalada:** `psql (PostgreSQL) 16.15`
 
 ### **_Preparación y descarga_**
 
@@ -99,7 +99,7 @@ Como vemos, se ha conectado. Y con esto ya tenemos también instalado PostgreSQL
 
 ## **_3. Desplegar MariaDB_**
 
-> **Versión instalada: `mariadb Ver 15.1 Distrib 10.11.14-MariaDB`
+> **Versión instalada:** `mariadb Ver 15.1 Distrib 10.11.14-MariaDB`
 
 ### **_Preparación y descarga_**
 
