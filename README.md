@@ -1,6 +1,8 @@
 # **Tarea 2.2 - Instalar tres SGBD**
 ##### _Amparo Sánchez Ledo - ASIR 2 - 07/10/2026_
 
+<!--Nota: la carpeta de evidencias/ es la misma que img/-->
+
 ![Tipos de SGBD](https://bigarsolucion.es/wp-content/uploads/2020/10/ADMINISTRACION-DE-SISTEMAS-GESTORES-DE-BASES-DE-DATOS.jpg)
 
 > Las características de la máquina son: 4GB de RAM, 2CPU y 250GB de almacenamiento. En esta tarea, usaré un Linux Mint (reutilizado de tareas anteriores).
